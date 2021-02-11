@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeslaTap", "TeslaTap\TeslaTap.csproj", "{D428E1A4-08E6-4E74-81DF-21B56454435F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D428E1A4-08E6-4E74-81DF-21B56454435F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D428E1A4-08E6-4E74-81DF-21B56454435F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D428E1A4-08E6-4E74-81DF-21B56454435F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D428E1A4-08E6-4E74-81DF-21B56454435F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99AB65DE-9DD0-41C5-8835-FD7F86167194}
+	EndGlobalSection
+EndGlobal
